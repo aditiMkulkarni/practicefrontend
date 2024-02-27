@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+}
+
+div.subdiv{
+    text-align: center;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 20px;
+
+    
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+}
+h2{
+    color: brown;
+}
